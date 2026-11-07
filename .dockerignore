@@ -1,0 +1,9 @@
+node_modules
+dist
+.vite
+.git
+arquivos-base
+.env
+.env.*
+!.env.example
+*.log
